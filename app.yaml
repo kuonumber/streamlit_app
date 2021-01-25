@@ -1,0 +1,3 @@
+service : streamlitest
+runtime: custom 
+env: flex
